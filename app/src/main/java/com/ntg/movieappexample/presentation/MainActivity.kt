@@ -1,7 +1,8 @@
-package com.ntg.movieappexample
+package com.ntg.movieappexample.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.ntg.movieappexample.R
 
 class MainActivity : AppCompatActivity() {
 
